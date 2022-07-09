@@ -1,0 +1,15 @@
+C:\Users\misha\Documents\Git_education\C#\Homework for C#\first_homework\first task\bin\Debug\net6.0\first task.exe
+C:\Users\misha\Documents\Git_education\C#\Homework for C#\first_homework\first task\bin\Debug\net6.0\first task.deps.json
+C:\Users\misha\Documents\Git_education\C#\Homework for C#\first_homework\first task\bin\Debug\net6.0\first task.runtimeconfig.json
+C:\Users\misha\Documents\Git_education\C#\Homework for C#\first_homework\first task\bin\Debug\net6.0\first task.dll
+C:\Users\misha\Documents\Git_education\C#\Homework for C#\first_homework\first task\bin\Debug\net6.0\first task.pdb
+C:\Users\misha\Documents\Git_education\C#\Homework for C#\first_homework\first task\obj\Debug\net6.0\first task.csproj.AssemblyReference.cache
+C:\Users\misha\Documents\Git_education\C#\Homework for C#\first_homework\first task\obj\Debug\net6.0\first task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\Documents\Git_education\C#\Homework for C#\first_homework\first task\obj\Debug\net6.0\first task.AssemblyInfoInputs.cache
+C:\Users\misha\Documents\Git_education\C#\Homework for C#\first_homework\first task\obj\Debug\net6.0\first task.AssemblyInfo.cs
+C:\Users\misha\Documents\Git_education\C#\Homework for C#\first_homework\first task\obj\Debug\net6.0\first task.csproj.CoreCompileInputs.cache
+C:\Users\misha\Documents\Git_education\C#\Homework for C#\first_homework\first task\obj\Debug\net6.0\first task.dll
+C:\Users\misha\Documents\Git_education\C#\Homework for C#\first_homework\first task\obj\Debug\net6.0\refint\first task.dll
+C:\Users\misha\Documents\Git_education\C#\Homework for C#\first_homework\first task\obj\Debug\net6.0\first task.pdb
+C:\Users\misha\Documents\Git_education\C#\Homework for C#\first_homework\first task\obj\Debug\net6.0\first task.genruntimeconfig.cache
+C:\Users\misha\Documents\Git_education\C#\Homework for C#\first_homework\first task\obj\Debug\net6.0\ref\first task.dll
